@@ -1,4 +1,4 @@
-# 📚 Intro to Computer Science — CS1
+# 📚 Intro to Computer Science ~ CS1
 
 > My first ever CS course, taken during my freshman year of college. This repository contains all the Java programs I wrote while learning the fundamentals of programming from scratch.
 
@@ -66,4 +66,4 @@ This course was where it all started. I learned how to think like a programmer; 
 
 ---
 
-*Freshman Year — Intro to Computer Science*
+*Freshman Year - Intro to Computer Science*
